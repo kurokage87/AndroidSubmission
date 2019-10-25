@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidSubmission</string>
+    <string name="nama_wisata">Nama Wisata</string>
+    <string name="detail_wisata">Detail Wisata</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+</resources>
